@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/pamflet/static/css/main.19393e92.chunk.css",
+    "main.js": "/pamflet/static/js/main.7a0e0686.chunk.js",
+    "main.js.map": "/pamflet/static/js/main.7a0e0686.chunk.js.map",
+    "runtime~main.js": "/pamflet/static/js/runtime~main.144b6568.js",
+    "runtime~main.js.map": "/pamflet/static/js/runtime~main.144b6568.js.map",
+    "static/js/2.b41502e9.chunk.js": "/pamflet/static/js/2.b41502e9.chunk.js",
+    "static/js/2.b41502e9.chunk.js.map": "/pamflet/static/js/2.b41502e9.chunk.js.map",
+    "index.html": "/pamflet/index.html",
+    "precache-manifest.b72deeddfa92dec3f753d88ddc0af3e6.js": "/pamflet/precache-manifest.b72deeddfa92dec3f753d88ddc0af3e6.js",
+    "service-worker.js": "/pamflet/service-worker.js",
+    "static/css/main.19393e92.chunk.css.map": "/pamflet/static/css/main.19393e92.chunk.css.map",
+    "static/media/logo.svg": "/pamflet/static/media/logo.5d5d9eef.svg"
+  }
+}
