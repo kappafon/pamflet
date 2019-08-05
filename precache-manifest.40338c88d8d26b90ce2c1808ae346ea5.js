@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "4a4d3f25ebe21a0521c794ccf8b16444",
+    "revision": "2a846e6d12f7c01e24c952a0c6cc901a",
     "url": "/pamflet/index.html"
   },
   {
-    "revision": "1ff12ecf8fb62547d96c",
+    "revision": "add4ec4fe75b4ce92482",
     "url": "/pamflet/static/css/main.a62f2a1e.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/pamflet/static/js/2.b41502e9.chunk.js"
   },
   {
-    "revision": "1ff12ecf8fb62547d96c",
-    "url": "/pamflet/static/js/main.b7eb4b2a.chunk.js"
+    "revision": "add4ec4fe75b4ce92482",
+    "url": "/pamflet/static/js/main.75c8c8c1.chunk.js"
   },
   {
     "revision": "d28ce161812ba7f8a64d",
